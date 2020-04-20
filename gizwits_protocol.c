@@ -1,18 +1,4 @@
-/**
-************************************************************
-* @file         gizwits_protocol.c
-* @brief        Gizwits协议相关文件 (SDK API 接口函数定义)
-* @author       Gizwits
-* @date         2016-09-05
-* @version      V03010101
-* @copyright    Gizwits
-* 
-* @note         机智云.只为智能硬件而生
-*               Gizwits Smart Cloud  for Smart Products
-*               链接|增值?|开放|中立|安全|自有|自由|生态
-*               www.gizwits.com
-*
-***********************************************************/
+
 #include "gizwits_protocol.h"
 
 /** 协议全局变量 **/
